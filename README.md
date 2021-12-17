@@ -9,7 +9,7 @@
 
 ### Programming Languages
 - C/C++
-- TypeScript & JavaScripit
+- TypeScript & JavaScript
 - Python
 - Golang
 
