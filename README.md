@@ -21,7 +21,7 @@
 
 ### Coding Tools
 - IDE: 💜Neovim💜
-- Terminal: Alacitty
+- Terminal: Alacritty
 - Shell: Fish
 - Tmux
 
