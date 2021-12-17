@@ -13,11 +13,20 @@
 - Python
 - Golang
 
-### Frameworks, Libraries and Tools
+### Frameworks, Libraries
 - React
 - Next.js
 - GraphQL
 - ML: PyTorch, Panda, NumPy and etc.
+
+### Coding Tools
+- IDE: 💜Neovim💜
+- Terminal: Alacitty
+- Shell: Fish
+- Tmux
+
+> To see my configuration refer to [my dotfiles](https://github.com/m3hransh/.dotfiles)
+
 
 ### Human Languages
 - Persian (Native)
