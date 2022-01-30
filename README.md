@@ -1,6 +1,6 @@
 ### Hi there, I'm MohammadMehran Shahidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Mehran%20Shahidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehran-shahidi/)](https://www.linkedin.com/in/mohammad-mehran-shahidi/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/m3hransh?style=social)](https://twitter.com/m3hransh)
+[![Linkedin: Mehran Shahidi](https://img.shields.io/badge/-Mehran%20Shahidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehran-shahidi/)](https://www.linkedin.com/in/mohammad-mehran-shahidi/)
+[![Twitter: Mehran Shahidi](https://img.shields.io/twitter/follow/m3hransh?style=social)](https://twitter.com/m3hransh)
 - 🌱 I’m currently learning web development and software architecture design
 - 👯 I’m looking to collaborate on educational software
 - 📫 You can use this email to reach me: m.mehrashahidi@gmail.com
@@ -11,7 +11,7 @@
 - C/C++
 - TypeScript & JavaScript
 - Python
-- Golang
+- Lua
 
 ### Frameworks, Libraries
 - React
@@ -21,7 +21,7 @@
 
 ### Coding Tools
 - IDE: 💜Neovim💜
-- Terminal: Alacritty
+- Terminal: Kitty
 - Shell: Fish
 - Tmux
 
@@ -33,7 +33,7 @@
 - English (C1)
 - German (A2)
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3hransh&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/vermakhushboo/github-readme-stats)
+[![Mehran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3hransh&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/vermakhushboo/github-readme-stats)
 <!--
 **m3hransh/m3hransh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
