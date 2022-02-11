@@ -7,8 +7,6 @@
 - 📑 I’m currently working on [portfolio-website](https://github.com/m3hransh/portfolio-website), which is an opensource project for connecting your portfolio to a [Notion](https://notion.so) page
 
 
-### Programming Languages
-
 ![Mehran's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3hransh&hide=javascript,html,jupyter%20notebook&langs_count=8&layout=compact&theme=radical)
 
 ### Frameworks, Libraries
