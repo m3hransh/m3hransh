@@ -8,10 +8,8 @@
 
 
 ### Programming Languages
-- C/C++
-- TypeScript & JavaScript
-- Python
-- Lua
+
+![Mehran's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3hransh&hide=javascript,html,jupyter%20notebook&langs_count=8&layout=compact&theme=radical)
 
 ### Frameworks, Libraries
 - React
